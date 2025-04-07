@@ -1,8 +1,8 @@
-wallpapers = ["/home/m_j2oz/MyStuff/Wallpapers/ schoolgirl.png",
-              "/home/m_j2oz/MyStuff/Wallpapers/damn.jpg",
-              "/home/m_j2oz/MyStuff/Wallpapers/raiden.jpg",
-              "/home/m_j2oz/MyStuff/Wallpapers/work.png",
-              "/home/m_j2oz/MyStuff/Wallpapers/chill.png",
+wallpapers = ["/home/m_j2oz/Wallpapers/1.png",
+              "/home/m_j2oz/Wallpapers/2.jpg",
+              "/home/m_j2oz/Wallpapers/3.jpg",
+              "/home/m_j2oz/Wallpapers/4.png",
+              "/home/m_j2oz/Wallpapers/5.png",
               ]
 
 
