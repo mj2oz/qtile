@@ -1,1 +1,1 @@
-My qtile dotfile, feel free to use them.
+My qtile dotfiles, feel free to use them.
